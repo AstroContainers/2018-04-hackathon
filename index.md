@@ -6,6 +6,7 @@ classes:
 excerpt: "April 11th, 2018, 5–9pm UTC"
 header:
   overlay_image: /banner.jpg
+  caption: "Flyer ([jpg](flyer.jpg), [pdf](flyer.pdf))"
   cta_label: Register
   cta_url: "https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ"
 ---
@@ -15,8 +16,6 @@ Date and Time: Wednesday, April 11th, 2018, 5–9pm UTC
 Available around the world via zoom
 
 Please [register](https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ) to secure your spot for this worldwide event
-
-Flyer ([jpg](flyer.jpg), [pdf](flyer.pdf))
 
 Local Information:
 
