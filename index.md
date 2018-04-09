@@ -8,9 +8,7 @@ header:
 
 Date and Time: Wednesday, April 11th, 2018, 5–9pm UTC
 
-Available Around the World via [Zoom Meeting](https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ)
-
-[Register with Zoom](https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ) to secure your spot for this worldwide event
+Available around the world via zoom; [register](https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ) to secure your spot for this worldwide event
 
 Local Information:
 
