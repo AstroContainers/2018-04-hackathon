@@ -8,7 +8,11 @@ header:
 
 Date and Time: Wednesday, April 11th, 2018, 5–9pm UTC
 
-Location: globally in [zoom](https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ); locally in
+Available Around the World via [Zoom Meeting](https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ)
+
+[Register with Zoom](https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ) to secure your spot for this worldwide event
+
+Local Information:
 
 | Site | Local Time | Room |
 | ---- | ---------- | ---- |
@@ -22,4 +26,4 @@ Location: globally in [zoom](https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5
 | UIUC/NCSA | 12pm–4pm | TBD |
 | UNAM | 12pm–4pm | TBD |
 
-For more information, please contact [CK Chan](mailto:chanc@email.arizona.edu).
+For more information, please visit [this webpage](https://astrocontainers.github.io/2018-04-hackathon) or contact [CK Chan](mailto:chanc@email.arizona.edu).
