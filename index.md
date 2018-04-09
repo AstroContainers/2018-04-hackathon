@@ -2,6 +2,8 @@
 layout: splash
 classes:
   - landing
+header:
+  image: /astrocontainer.jpg
 ---
 
 Date and Time: Wednesday, April 11th, 2018, 5–9pm UTC
