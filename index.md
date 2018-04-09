@@ -12,16 +12,16 @@ Available around the world via zoom; [register](https://zoom.us/webinar/register
 
 Local Information:
 
-| Site | Local Time | Room |
-| ---- | ---------- | ---- |
-| Amsterdam | 7pm–11pm | TBD |
-| ASIAA | 1am–5am | TBD |
-| CfA/BHI | 1pm–5pm | TBD |
-| Frankfurt | 7pm–11pm | TBD |
-| MPIfR | 7pm–11pm | TBD |
-| Perimeter | 1pm–5pm | TBD |
-| Steward | 10am–2pm | Steward Observatory Room 450 |
-| UIUC/NCSA | 12pm–4pm | TBD |
-| UNAM | 12pm–4pm | TBD |
+Site | Local Time | Room
+---- | ---------- | ----
+Amsterdam | 7pm–11pm | TBD
+ASIAA | 1am–5am | TBD
+CfA/BHI | 1pm–5pm | TBD
+Frankfurt | 7pm–11pm | TBD
+MPIfR | 7pm–11pm | TBD
+Perimeter | 1pm–5pm | TBD
+Steward | 10am–2pm | Steward Observatory Room 450
+UIUC/NCSA | 12pm–4pm | TBD
+UNAM | 12pm–4pm | TBD
 
 For more information, please visit [this webpage](https://astrocontainers.github.io/2018-04-hackathon) or contact [CK Chan](mailto:chanc@email.arizona.edu).
