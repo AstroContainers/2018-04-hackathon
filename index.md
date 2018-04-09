@@ -60,8 +60,8 @@ hh:mm from starting time |
 
 ### Live Info:
 
-- Docker howto: <LINK> cheat sheet <LINK>
-- Jupyter howto: <LINK> cheat sheet <LINK>
+- [Docker related resources](https://cyverse-container-camp-workshop-2018.readthedocs-hosted.com/en/latest/useful_resources/usefulresources_docker.html)
+- Jupyter related resources
 - Please fill in hacking ideas and links here
 
 For more information, please contact [CK Chan](mailto:chanc@email.arizona.edu).   There is also a related [workshop at Arizona](https://astrocontainers.github.io/2018-05-workshop).
