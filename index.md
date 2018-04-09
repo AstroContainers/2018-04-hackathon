@@ -1,14 +1,20 @@
 ---
+title: Docker and Jupyter for Reproducible Astronomy
 layout: splash
 classes:
   - landing
+excerpt: "April 11th, 2018, 5–9pm UTC"
 header:
-  image: /banner.jpg
+  overlay_image: /banner.jpg
+  cta_label: Register
+  cta_url: "https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ"
 ---
 
 Date and Time: Wednesday, April 11th, 2018, 5–9pm UTC
 
-Available around the world via zoom; [register](https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ) to secure your spot for this worldwide event
+Available around the world via zoom
+
+Please [register](https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ) to secure your spot for this worldwide event
 
 Flyer ([jpg](flyer.jpg), [pdf](flyer.pdf))
 
