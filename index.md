@@ -64,4 +64,4 @@ hh:mm from starting time |
 - Jupyter howto: <LINK> cheat sheet <LINK>
 - Please fill in hacking ideas and links here
 
-For more information, please visit [this webpage](https://astrocontainers.github.io/2018-04-hackathon) or contact [CK Chan](mailto:chanc@email.arizona.edu).   There is also a related [workshop at Arizona](https://astrocontainers.github.io/2018-05-workshop).
+For more information, please contact [CK Chan](mailto:chanc@email.arizona.edu).   There is also a related [workshop at Arizona](https://astrocontainers.github.io/2018-05-workshop).
