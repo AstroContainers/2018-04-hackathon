@@ -3,12 +3,14 @@ layout: splash
 classes:
   - landing
 header:
-  image: /astrocontainer.jpg
+  image: /banner.jpg
 ---
 
 Date and Time: Wednesday, April 11th, 2018, 5–9pm UTC
 
 Available around the world via zoom; [register](https://zoom.us/webinar/register/WN_b3STeD9YRT-NpU5UiG8ifQ) to secure your spot for this worldwide event
+
+Flyer ([jpg](flyer.jpg), [pdf](flyer.pdf))
 
 Local Information:
 
