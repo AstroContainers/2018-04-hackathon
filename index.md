@@ -21,8 +21,8 @@ Site | Local Time | Room | Notes
 ---- | ---------- | ---- | -----
 Amsterdam | 7pm–11pm | TBD |
 CfA/BHI | 1pm–5pm | BHI Conference Room |
-Frankfurt | 7pm–11pm | TBD |
-MPIfR | 7pm–11pm | E2.09 |
+Frankfurt | 7pm–11pm | Room 2.144 |
+MPIfR | 7pm–11pm | Room E2.09 |
 Perimeter | 1pm–5pm | Reflecting Lounge |
 Steward | 10am–2pm | Steward Observatory Room 450 | Coffee and sandwiches will be provided
 
