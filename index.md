@@ -20,11 +20,11 @@ Local Information:
 Site | Local Time | Room | Notes
 ---- | ---------- | ---- | -----
 Amsterdam | 7pm–11pm | TBD |
-CfA/BHI | 1pm–5pm | TBD |
+CfA/BHI | 1pm–5pm | BHI Conference Room |
 Frankfurt | 7pm–11pm | TBD |
 MPIfR | 7pm–11pm | TBD |
-Perimeter | 1pm–5pm | TBD |
-Steward | 10am–2pm | Steward Observatory Room 450 | Coffee and sandwiches provided
+Perimeter | 1pm–5pm | Reflecting Lounge |
+Steward | 10am–2pm | Steward Observatory Room 450 | Coffee and sandwiches will be provided
 
 ### Scope:
 
