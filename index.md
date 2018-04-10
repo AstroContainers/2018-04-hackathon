@@ -19,7 +19,7 @@ Local Information:
 
 Site | Local Time | Room | Notes
 ---- | ---------- | ---- | -----
-Amsterdam | 7pm–11pm | TBD |
+API | 7pm–11pm | TBD |
 CfA/BHI | 1pm–5pm | BHI Conference Room |
 Frankfurt | 7pm–11pm | Room 2.144 |
 MPIfR | 7pm–11pm | Room E2.09 |
