@@ -61,7 +61,6 @@ hh:mm from starting time |
 ### Live Info:
 
 - [Docker related resources](https://cyverse-container-camp-workshop-2018.readthedocs-hosted.com/en/latest/useful_resources/usefulresources_docker.html)
-- Jupyter related resources
-- Please fill in hacking ideas and links here
+- [Jupyter  related resources](https://github.com/jupyter-resources)
 
 For more information, please contact [CK Chan](mailto:chanc@email.arizona.edu).   There is also a related [workshop at Arizona](https://astrocontainers.github.io/2018-05-workshop).
