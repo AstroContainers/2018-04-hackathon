@@ -17,14 +17,14 @@ Available around the world via zoom.  Please [register](https://zoom.us/webinar/
 
 Local Information:
 
-Site | City | Local Time | Room | Notes
----- | ---- | ---------- | ---- | -----
-API | Amsterdam | 7pm–11pm | TBD |
-CfA/BHI | Cambridge | 1pm–5pm | BHI Conference Room |
-ITP | Frankfurt | 7pm–11pm | Room 2.144 |
-MPIfR | Bonn | 7pm–11pm | Room E2.09 |
-Perimeter | Waterloo | 1pm–5pm | Reflecting Lounge |
-Steward | Tucson | 10am–2pm | Steward Observatory Room 450 | Coffee and sandwiches will be provided
+Site | City | Local Time | Room
+---- | ---- | ---------- | ----
+API | Amsterdam | 7pm–11pm | TBD
+CfA/BHI | Cambridge | 1pm–5pm | BHI Conference Room
+ITP | Frankfurt | 7pm–11pm | Room 2.144
+MPIfR | Bonn | 7pm–11pm | Room E2.09
+Perimeter | Waterloo | 1pm–5pm | Reflecting Lounge
+Steward | Tucson | 10am–2pm | Steward Observatory Room 450
 
 ### Scope:
 
@@ -51,8 +51,8 @@ Container technologies such as Docker is letting astronomers easily share, scale
 hh:mm from starting time |
 ------------------------ | ---
 00:00–00:05 | Opening
-00:05–00:15 | Brief introduction to Docker
-00:15–00:25 | Brief introduction to Jupyter
+00:05–00:15 | Docker Overview
+00:15–00:25 | Jupyter Overview
 00:25–00:30 | Participants form teams to work on projects at different levels
 00:30–03:30 | Hack times
 03:30–03:50 | Summary presentations
