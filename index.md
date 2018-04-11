@@ -51,8 +51,8 @@ Container technologies such as Docker is letting astronomers easily share, scale
 hh:mm from starting time |
 ------------------------ | ---
 00:00–00:05 | Opening
-00:05–00:15 | Docker Overview
-00:15–00:25 | Jupyter Overview
+00:05–00:15 | [Docker Overview](https://github.com/AstroContainers/2018-04-hackathon/raw/slides/Docker%20Overview.key)
+00:15–00:25 | [Jupyter Overview](https://github.com/AstroContainers/2018-04-hackathon/blob/slides/Jupyter%20Overview.key)
 00:25–00:30 | Participants form teams to work on projects at different levels
 00:30–03:30 | Hack times
 03:30–03:50 | Summary presentations
