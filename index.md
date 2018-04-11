@@ -17,14 +17,14 @@ Available around the world via zoom.  Please [register](https://zoom.us/webinar/
 
 Local Information:
 
-Site | Local Time | Room | Notes
----- | ---------- | ---- | -----
-API | 7pm–11pm | TBD |
-CfA/BHI | 1pm–5pm | BHI Conference Room |
-Frankfurt | 7pm–11pm | Room 2.144 |
-MPIfR | 7pm–11pm | Room E2.09 |
-Perimeter | 1pm–5pm | Reflecting Lounge |
-Steward | 10am–2pm | Steward Observatory Room 450 | Coffee and sandwiches will be provided
+Site | City | Local Time | Room | Notes
+---- | ---- | ---------- | ---- | -----
+API | Amsterdam | 7pm–11pm | TBD |
+CfA/BHI | Cambridge | 1pm–5pm | BHI Conference Room |
+ITP | Frankfurt | 7pm–11pm | Room 2.144 |
+MPIfR | Bonn | 7pm–11pm | Room E2.09 |
+Perimeter | Waterloo | 1pm–5pm | Reflecting Lounge |
+Steward | Tucson | 10am–2pm | Steward Observatory Room 450 | Coffee and sandwiches will be provided
 
 ### Scope:
 
