@@ -1,2 +1,4 @@
 remote_theme: mmistakes/minimal-mistakes
 title: PIRE Mini-Hackathon
+plugins:
+  - jekyll-include-cache
